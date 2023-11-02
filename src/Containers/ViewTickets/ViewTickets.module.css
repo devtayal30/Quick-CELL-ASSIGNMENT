@@ -1,0 +1,7 @@
+.ticketViewContainer {
+  display: block;
+  overflow-x: visible;
+}
+.ticketViewContainer * {
+  font-size: small;
+}/*# sourceMappingURL=ViewTickets.module.css.map */
